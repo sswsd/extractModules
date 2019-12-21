@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="extractModules:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/extractModules_jar</output-path>
+    <root id="archive" name="extractModules.jar">
+      <element id="module-output" name="extractModules" />
+    </root>
+  </artifact>
+</component>
