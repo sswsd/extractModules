@@ -127,7 +127,6 @@ public class Modules extends JFrame{
         frame.setContentPane(mainForm.JPanelMy);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-
         frame.pack();
         frame.setLocationRelativeTo(null);
 
